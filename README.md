@@ -17,3 +17,7 @@ Mi Card is a personal business card. Imagine every time you wanted to give someo
 * How to add custom fonts
 * How to add Material icons
 * How to style Text widgets
+
+## Project layout & app design
+
+![Business Card](https://github.com/nil4587/flutter_card_app/assets/3828906/5dfacb34-6e56-4d68-ba38-cdea95b5bf45)
